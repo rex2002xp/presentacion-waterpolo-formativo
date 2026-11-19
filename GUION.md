@@ -1,13 +1,13 @@
-Aquí tienes el **libreto completo slide por slide** optimizado para un generador de presentaciones (como Gamma, Beautiful.ai o PowerPoint Designer) y cronometrado con precisión para los **12 minutos reglamentarios**.
+Aquí tienes el **libreto completo slide por slide** optimizado para la presentación formal ante el tribunal de la Diplomatura Superior de AFEN, calibrado con precisión para los **13 minutos reglamentarios**.
 
-La estructura mantiene la secuencia natural de las **12 diapositivas** del proyecto, resolviendo la participación equitativa mediante **un único pase de posta al minuto 5:30** y un cierre conjunto en el último minuto. Esto garantiza fluidez, evita interrupciones técnicas y permite que cada uno explote su área de mayor fortaleza (Víctor en la arquitectura pedagógica y Josué en la praxis biomecánica de cancha).
+La estructura consta de **13 diapositivas**, resolviendo la participación equitativa mediante **un pase de posta natural al minuto 6:15** (tras la explicación de los 5 Mesociclos por parte de Víctor) y un **cierre conjunto en el último minuto y quince segundos**. Esto garantiza coherencia pedagógica, fluidez metodológica y permite que cada uno explote su área de mayor fortaleza (Víctor en la arquitectura psicocinética y curricular, y Josué en la praxis biomecánica y táctica de piscina).
 
 ---
 
 ### Slide 1: Portada y Premisa Formativa
 * **Expositor:** Víctor
 * **Tiempo asignado:** 0:40 min (Minuto 0:00 a 0:40)
-* **Texto en pantalla (para el generador):**
+* **Texto en pantalla:**
   * *Título:* Planificación Metodológica e Integral del Waterpolo Formativo Sub-13
   * *Subtítulo:* Del Dominio Motor Acuático a la Iniciación Táctica Colectiva
   * *Autores:* Lic. Víctor Hugo Cornejo Calderón & Josué Mendoza (AFEN - Nivel 1)
@@ -21,7 +21,7 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 ### Slide 2: Diagnóstico y Realidad Operativa del Grupo
 * **Expositor:** Víctor
 * **Tiempo asignado:** 1:00 min (Minuto 0:40 a 1:40)
-* **Texto en pantalla (para el generador):**
+* **Texto en pantalla:**
   * *Población:* 18 deportistas Sub-13 (11 a 13 años, mixto: 10 varones, 8 mujeres).
   * *Heterogeneidad de origen:*
     * 70% Natación clásica (eficiencia lineal, pero nula visión frontal y rigidez postural).
@@ -35,7 +35,7 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 ### Slide 3: Marco Teórico: Las 5 Fases Psicocinéticas de Le Boulch
 * **Expositor:** Víctor
 * **Tiempo asignado:** 1:00 min (Minuto 1:40 a 2:40)
-* **Texto en pantalla (para el generador):**
+* **Texto en pantalla:**
   * *Modelo:* Progresión Psicocinética del Aprendizaje Motor Acuático (Jean Le Boulch).
   * *Diagrama secuencial de 5 fases:*
     1. Exploración y descubrimiento guiado.
@@ -52,7 +52,7 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 ### Slide 4: Fase 1 – Exploración y Descubrimiento Guiado
 * **Expositor:** Víctor
 * **Tiempo asignado:** 0:50 min (Minuto 2:40 a 3:30)
-* **Texto en pantalla (para el generador):**
+* **Texto en pantalla:**
   * *Objetivo:* Adaptación sensorial al medio profundo y pérdida de rigidez postural.
   * *Desafío:* Cambiar la orientación corporal de horizontal a vertical sin apoyo plantar.
   * *Estrategia didáctica:* Juegos de búsqueda de balance, inmersiones dinámicas, cambios de ritmo y giros corporales libres.
@@ -64,7 +64,7 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 ### Slide 5: Fase 2 – Elaboración de Esquemas de Respuesta
 * **Expositor:** Víctor
 * **Tiempo asignado:** 0:50 min (Minuto 3:30 a 4:20)
-* **Texto en pantalla (para el generador):**
+* **Texto en pantalla:**
   * *Objetivo:* Formulación de respuestas individuales ante problemas motrices concretos.
   * *Pregunta pedagógica:* ¿Cómo mantengo la cabeza afuera observando el juego sin cansarme?
   * *Contenidos:* Inicio de propulsión alternada con piernas, transporte de balón con cabeza alta y cambios de orientación.
@@ -73,25 +73,42 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 
 ---
 
-### Slide 6: FASE CLAVE – Fase 3: Estabilización Técnica
-* **Expositor:** Víctor (con pase de turno a Josué)
-* **Tiempo asignado:** 1:10 min (Minuto 4:20 a 5:30)
-* **Texto en pantalla (para el generador):**
+### Slide 6: FASE CLAVE – Fase 3: Estabilización Técnica Consciente
+* **Expositor:** Víctor
+* **Tiempo asignado:** 1:00 min (Minuto 4:20 a 5:20)
+* **Texto en pantalla:**
   * *Foco Central Sub-13:* Control consciente de la biomecánica fundamental.
   * *Pilar 1: Sustentación vertical continua (Eggbeater).*
     * Rotación alternada hacia adentro de piernas (Principio de Bernoulli).
-    * Alineación lumbo-pélvica y protección del ligamento colateral medial.
+    * Alineación lumbo-pélvica y protección preventiva del ligamento colateral medial y pata de ganso.
   * *Pilar 2: Armado del brazo.*
-    * Ángulo de 90° entre tronco, hombro y codo con elevación escapular.
-* **Guion de Víctor y transición a Josué:**
-  > *"Llegamos al primer gran núcleo de nuestro plan: la Fase 3, Estabilización Técnica. En Sub-13, el gesto técnico debe consolidarse de forma consciente y biomecánicamente limpia para evitar sobrecargas articulares. Priorizamos dos patrones: primero, el eggbeater o patada rotativa alternada, que genera sustentación constante por presión de sustentación hidrodinámica sin altibajos, cuidando la angulación de cadera y rodilla; y segundo, el armado de lanzamiento con codo a 90° y mano abierta sobre el balón. Para detallar cómo trasladamos esta biomecánica al agua y cómo alcanzamos la automatización en piscina, le cedo la palabra a mi compañero Josué Mendoza."*
+    * Ángulo de 90° entre tronco, hombro y codo con elevación escapular por encima del agua.
+    * Cadena cinética: piernas → pelvis → tronco → latigazo final de muñeca.
+* **Guion de Víctor:**
+  > *"Llegamos al núcleo biomecánico de nuestro plan: la Fase 3, Estabilización Técnica. En Sub-13, el gesto técnico debe consolidarse de forma consciente y biomecánicamente limpia para evitar sobrecargas articulares. Priorizamos dos patrones fundamentales: primero, el eggbeater o patada rotativa alternada, que genera sustentación constante por diferencia de presión hidrodinámica (Principio de Bernoulli) sin oscilaciones, cuidando la angulación de cadera y rodilla; y segundo, el armado de lanzamiento con codo a 90° por encima del hombro y mano abierta. Esta técnica consciente sienta las bases para toda la periodización anual."*
 
 ---
 
-### Slide 7: FASE CLAVE – Fase 4: Automatización del Movimiento
+### Slide 7: Periodización Anual: Los 5 Mesociclos Formativos (40 Semanas)
+* **Expositor:** Víctor (con pase de posta a Josué al minuto 6:15)
+* **Tiempo asignado:** 0:55 min (Minuto 5:20 a 6:15)
+* **Texto en pantalla:**
+  * *Estructura Curricular del Macrociclo (Marzo a Diciembre):*
+    * **Meso 1 (Mar-Abr):** Alfabetización Motriz y Nivelación Heterogénea *(Fases 1 y 2)*.
+    * **Meso 2 (May-Jun):** Sustentación *Eggbeater* y Control de Balón *(Fase 3)*.
+    * **Meso 3 (Jul-Ago):** Táctica de Pequeños Grupos (2x1, 3x2) y Lanzamiento *(Fases 3 y 4)*.
+    * **Meso 4 (Sep-Oct):** Organización Táctica Colectiva e Iniciación al Sistema 3-3 *(Fases 4 y 5)*.
+    * **Meso 5 (Nov-Dic):** Integración Competitiva Formativa y Evaluación Global *(Fase 5)*.
+  * *Articulación Didáctica:* Mesos 1-2 nivelan y blindan la base motriz (Víctor) $\rightarrow$ Mesos 3-5 automatizan la táctica y el juego (Josué).
+* **Guion de Víctor y transición a Josué:**
+  > *"Como observamos, la progresión pedagógica cobra vida en nuestro Macrociclo Anual de 40 semanas, estructurado en 5 mesociclos formativos. Los Mesociclos 1 y 2 absorben directamente la heterogeneidad del grupo: nivelamos al nadador y al deportista de campo mediante la locomoción adaptada y la sustentación en eggbeater. Con esa base biomecánica garantizada, el plan avanza hacia la táctica de pequeños grupos, el sistema de juego y la competencia formativa en los Mesociclos 3, 4 y 5. Para explicar cómo logramos la automatización del gesto y la toma de decisiones en esta segunda mitad del año, le cedo la palabra a mi compañero Josué Mendoza."*
+
+---
+
+### Slide 8: FASE CLAVE – Fase 4: Automatización del Movimiento
 * **Expositor:** Josué
-* **Tiempo asignado:** 1:15 min (Minuto 5:30 a 6:45)
-* **Texto en pantalla (para el generador):**
+* **Tiempo asignado:** 1:15 min (Minuto 6:15 a 7:30)
+* **Texto en pantalla:**
   * *Foco Central Sub-13:* Liberación de carga cognitiva para ver el juego.
   * *Crol Polo Específico:*
     * Brazada corta de alta frecuencia + cabeza erguida.
@@ -104,10 +121,10 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 
 ---
 
-### Slide 8: Conexión Estratégica: ¿Por qué las Fases 3 y 4 son el Corazón del Proyecto?
+### Slide 9: Conexión Estratégica: ¿Por qué las Fases 3 y 4 son el Corazón del Proyecto?
 * **Expositor:** Josué
-* **Tiempo asignado:** 1:00 min (Minuto 6:45 a 7:45)
-* **Texto en pantalla (para el generador):**
+* **Tiempo asignado:** 1:00 min (Minuto 7:30 a 8:30)
+* **Texto en pantalla:**
   * *Nivelación del Grupo Heterogéneo:*
     * Al nadador: le da estabilidad vertical, visión panorámica y manejo de balón.
     * Al deportista terrestre: le otorga flotabilidad económica y resistencia específica.
@@ -118,10 +135,10 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 
 ---
 
-### Slide 9: Fase 5 – Utilización Creativa y Disponibilidad Táctica
+### Slide 10: Fase 5 – Utilización Creativa y Disponibilidad Táctica
 * **Expositor:** Josué
-* **Tiempo asignado:** 1:15 min (Minuto 7:45 a 9:00)
-* **Texto en pantalla (para el generador):**
+* **Tiempo asignado:** 1:15 min (Minuto 8:30 a 9:45)
+* **Texto en pantalla:**
   * *Objetivo:* Transferencia al juego dinámico y toma de decisiones.
   * *Tareas Situacionales (Fichas 4 y 5):*
     * Superioridad 2x1 en contragolpe: concepto de "fijar al defensor" y pasar al espacio libre.
@@ -132,10 +149,10 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 
 ---
 
-### Slide 10: Dinámica de Cargas (3:1) y Trabajo Preventivo en Seco
+### Slide 11: Dinámica de Cargas (3:1) y Trabajo Preventivo en Seco
 * **Expositor:** Josué
-* **Tiempo asignado:** 1:00 min (Minuto 9:00 a 10:00)
-* **Texto en pantalla (para el generador):**
+* **Tiempo asignado:** 1:00 min (Minuto 9:45 a 10:45)
+* **Texto en pantalla:**
   * *Estructura de Sesión (90 min):*
     * 20 min en seco: Activación escapular, manguito rotador (bandas elásticas) y estabilidad lumbo-pélvica (core).
     * 70 min en agua: Bloque biomecánico, tareas tácticas y juego aplicativo.
@@ -147,10 +164,10 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 
 ---
 
-### Slide 11: Solución Logística: Mini-Waterpolo 4 vs 4 Simultáneo
+### Slide 12: Solución Logística: Mini-Waterpolo 4 vs 4 Simultáneo
 * **Expositor:** Josué
-* **Tiempo asignado:** 1:00 min (Minuto 10:00 a 11:00)
-* **Texto en pantalla (para el generador):**
+* **Tiempo asignado:** 1:00 min (Minuto 10:45 a 11:45)
+* **Texto en pantalla:**
   * *Problema Detectado:* Plantel de 18 deportistas vs. 1 sola cancha = 10 niños pasivos fuera del agua.
   * *Solución Aplicada:* División transversal de la fosa en **dos campos simultáneos**:
     * Campo A (4v4 + arqueros) = 8 jugadores activos.
@@ -162,18 +179,15 @@ La estructura mantiene la secuencia natural de las **12 diapositivas** del proye
 
 ---
 
-### Slide 12: Evaluación Formativa y Conclusiones Integrales
-* **Expositor:** Cierre compartido (Josué 30 s + Víctor 30 s)
-* **Tiempo asignado:** 1:00 min (Minuto 11:00 a 12:00)
-* **Texto en pantalla (para el generador):**
+### Slide 13: Evaluación Formativa y Conclusiones Integrales
+* **Expositor:** Cierre compartido (Josué 11:45 a 12:20 + Víctor 12:20 a 13:00)
+* **Tiempo asignado:** 1:15 min (Minuto 11:45 a 13:00)
+* **Texto en pantalla:**
   * *Rúbrica Cualitativa (Anexo 1):* 5 dimensiones (Locomoción, Eggbeater, Balón, Táctica y Convivencia) en niveles Inicial, En Desarrollo y Adquirido.
   * *Conclusión Central:*
     * Primacía del desarrollo psicomotor y la salud articular por encima de los marcadores competitivos prematuros.
     * El waterpolo como escuela de valores colectivos y pasión deportiva.
-* **Guion de Josué (11:00 a 11:30):**
+* **Guion de Josué (11:45 a 12:20):**
   > *"Para evaluar este progreso, diseñamos una rúbrica en 5 dimensiones donde no calificamos si el tiro fue gol, sino la mecánica del eggbeater, la altura del codo y la intención colectiva del pase. Como deportista sé que los resultados tempranos son efímeros; lo que queda para toda la vida es una biomecánica limpia y el amor por el entrenamiento."*
-* **Guion de Víctor (11:30 a 12:00):**
+* **Guion de Víctor (12:20 a 13:00):**
   > *"Concluimos reafirmando que el waterpolo formativo en El Salvador debe ser un espacio de inclusión y desarrollo humano integral. Agradecemos al profesor Daniel Poggi por guiarnos en esta diplomatura con un enfoque riguroso y contemporáneo del deporte. Quedamos a su entera disposición para responder a las preguntas y observaciones del tribunal. Muchas gracias."*
-
----
-
