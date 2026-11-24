@@ -116,8 +116,11 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
   * *Manejo de Balón en Suspensión:*
     * Levantamiento por succión palmar inferior (sin hundir la pelota).
     * Recepción aérea a una mano sin que el balón toque el agua.
-* **Guion de Josué:**
-  > *"Gracias, Víctor. Profesor Poggi, en la Fase 4 buscamos que los movimientos aprendidos en la Fase 3 se vuelvan naturales, para que el jugador los realice sin tener que pensar constantemente en ellos. Como exjugador sé que un chico de Sub-13 no debería estar pensando en cómo mover las piernas para no hundirse, sino pendiente de los detalles del juego; cuando el movimiento se vuelve natural, tiene más tiempo para pensar y tomar mejores decisiones. Por eso, en el crol polo trabajamos una brazada corta de alta frecuencia que genera una ola de proa frente a la barbilla, manteniendo el balón controlado sin tocarlo continuamente. Asimismo, automatizamos la toma desde abajo por succión palmar y la recepción aérea a una mano con codo alto, permitiendo pasar o lanzar en una sola secuencia continua."*
+* **Apuntes de Josué:**
+  * Conseguir que el jugador realice los movimientos sin tener que pensar constantemente en ellos.
+  * En esta etapa buscamos que los movimientos que aprendieron en la fase 3 se vuelvan naturales.
+  * Un jugador de waterpolo no debería estar pensando en cómo moverse sino más bien en estar pendiente en detalles del juego.
+  * Cuando el movimiento se vuelve natural el jugador tiene más tiempo para pensar y tomar mejores decisiones.
 
 ---
 
@@ -130,8 +133,11 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
     * Al deportista terrestre: le otorga flotabilidad económica y resistencia específica.
   * *Prevención Funcional:* Fijación de patrones técnicos correctos antes del pico de crecimiento puberal.
   * *Puente a la Táctica:* Nadie puede tomar decisiones tácticas complejas si está luchando por sobrevivir en el agua.
-* **Guion de Josué:**
-  > *"Esta diapositiva es muy importante porque explica cómo se conectan las dos fases anteriores, que son la base para jugar de manera inteligente. En la Fase 3 el jugador aprende cómo mover su cuerpo, cómo colocarse y cómo flotar; en la Fase 4 practica esos movimientos hasta realizarlos sin tener que pensar demasiado en ellos. Nuestro objetivo es nivelar un grupo heterogéneo: al nadador clásico le damos sustentación vertical en eggbeater y visión panorámica, y al deportista que viene de tierra —o que se inicia en el agua— le damos economía de esfuerzo para no agotarse rápido. Además, entre los 11 y 13 años fijamos un codo alto a 90° y una rotación limpia antes del estirón puberal, previniendo futuras lesiones de hombro."*
+* **Apuntes de Josué:**
+  * Esta diapositiva es muy importante porque nos permite explicar cómo se conectan las dos fases anteriores, la fase 3 y la fase 4 son la base para que los jugadores puedan llegar a jugar de manera inteligente.
+  * En la fase 3 el jugador aprende a cómo mover su cuerpo, cómo colocarse, cómo flotar, etc.
+  * Y en la fase 4 esos movimientos se practican hasta que el jugador pueda realizarlos sin tener que pensar demasiado en ellos.
+  * Nuestro objetivo también será nivelar el grupo, es decir podemos tener niños que vienen de natación, que vienen de algún deporte terrestre o que este sea su primer deporte practicado.
 
 ---
 
@@ -144,8 +150,10 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
     * Superioridad 2x1 en contragolpe: concepto de "fijar al defensor" y pasar al espacio libre.
     * Límite de posesión adaptado a 30 segundos (evitando la precipitación y fatiga láctica).
   * *Principio:* El error técnico no se castiga; se analiza como lectura del juego.
-* **Guion de Josué:**
-  > *"Ahora que el niño domina los movimientos de forma natural, en la Fase 5 debe aprender a utilizarlos para resolver situaciones reales de juego. Aquí presentamos ejercicios donde los jugadores tienen que observar lo que está pasando y decidir qué hacer, buscando que no solamente ejecuten instrucciones, sino que aprendan a pensar. En nuestras fichas trabajamos superioridades reducidas de 2 contra 1 y 3 contra 2, aplicando el principio de 'fijar y pasar': el atacante con balón avanza hacia el defensor para comprometerlo y habilitar al compañero libre, o define si el defensor duda. Además, usamos posesiones adaptadas de 30 segundos para evitar la prisa y la fatiga láctica, tratando el error como parte del aprendizaje grupal."*
+* **Apuntes de Josué:**
+  * Ahora que el niño domina los movimientos debe aprender a utilizarlos para resolver situaciones de juego.
+  * En esta fase presentamos ejercicios donde los jugadores deben observar lo que está pasando y decidir qué hacer.
+  * Con estos ejercicios buscamos que los niños no solamente ejecuten instrucciones sino que aprendan a pensar y resolver situaciones reales de juego.
 
 ---
 
@@ -159,8 +167,9 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
   * *Macrociclo Anual (40 semanas):*
     * Dinámica 3:1 (3 semanas de desarrollo y carga + 1 semana de descarga activa y consolidación).
   * *Criterio Biológico:* Predominio de vías aeróbicas y alácticas; exclusión de cargas lácticas extenuantes.
-* **Guion de Josué:**
-  > *"Aquí veremos cómo está organizado nuestro plan de entrenamiento. Una buena planificación es clave para que los jugadores aprendan progresivamente, mejoren su rendimiento y tengan tiempo suficiente para recuperarse. Por eso, cada sesión de 90 minutos inicia de forma innegociable con 20 minutos en seco: activación escapular con bandas elásticas y zona media para proteger el hombro antes de los 70 minutos en el agua. A nivel anual aplicamos una dinámica ondulante 3:1 —tres semanas de desarrollo y carga seguidas de una semana de descarga activa para consolidar adaptaciones—, priorizando vías aeróbicas y alácticas y evitando cargas lácticas extenuantes en esta etapa puberal."*
+* **Apuntes de Josué:**
+  * Esta parte es importante porque tener una buena planificación permite que los jugadores aprendan progresivamente, mejoren su rendimiento y tengan tiempo suficiente para recuperarse.
+  * Aquí hablaremos de cómo estará organizado nuestro plan de entrenamiento.
 
 ---
 
