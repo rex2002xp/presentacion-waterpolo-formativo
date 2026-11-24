@@ -117,7 +117,7 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
     * Levantamiento por succión palmar inferior (sin hundir la pelota).
     * Recepción aérea a una mano sin que el balón toque el agua.
 * **Guion de Josué:**
-  > *"Gracias, Víctor. Profesor Poggi, como exjugador sé perfectamente que si un chico en Sub-13 tiene que pensar en cómo mover las piernas para no hundirse, no tiene espacio mental para ver a su compañero desmarcado. Por eso, en la Fase 4 buscamos la automatización refleja. En el crol polo trabajamos una frecuencia de brazada corta que genera una ola de proa frente a la barbilla; esa pequeña ola mantiene el balón flotando y controlado entre los brazos sin necesidad de tocarlo continuamente. Asimismo, automatizamos la toma del balón desde abajo por succión palmar y la recepción aérea a una mano con codo alto, permitiendo que el jugador pase o lance en una sola secuencia continua."*
+  > *"Gracias, Víctor. Profesor Poggi, en la Fase 4 buscamos que los movimientos aprendidos en la Fase 3 se vuelvan naturales, para que el jugador los realice sin tener que pensar constantemente en ellos. Como exjugador sé que un chico de Sub-13 no debería estar pensando en cómo mover las piernas para no hundirse, sino pendiente de los detalles del juego; cuando el movimiento se vuelve natural, tiene más tiempo para pensar y tomar mejores decisiones. Por eso, en el crol polo trabajamos una brazada corta de alta frecuencia que genera una ola de proa frente a la barbilla, manteniendo el balón controlado sin tocarlo continuamente. Asimismo, automatizamos la toma desde abajo por succión palmar y la recepción aérea a una mano con codo alto, permitiendo pasar o lanzar en una sola secuencia continua."*
 
 ---
 
@@ -131,7 +131,7 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
   * *Prevención Funcional:* Fijación de patrones técnicos correctos antes del pico de crecimiento puberal.
   * *Puente a la Táctica:* Nadie puede tomar decisiones tácticas complejas si está luchando por sobrevivir en el agua.
 * **Guion de Josué:**
-  > *"¿Por qué focalizar todo el peso en las Fases 3 y 4? Porque son el puente de nivelación de nuestro grupo de 18 atletas. Al nadador le quitamos el hábito de mirar al fondo y le enseñamos a sostenerse verticalmente con el eggbeater; al deportista terrestre le damos la economía de esfuerzo para que no se agote en los primeros dos minutos. Además, entre los 11 y 13 años, si no automatizamos un codo alto a 90° y una rotación coordinada de cadera, el jugador arrastrará vicios posturales que más adelante terminarán en tendinopatías de hombro. La técnica estabilizada es la que hace posible la táctica."*
+  > *"Esta diapositiva es muy importante porque explica cómo se conectan las dos fases anteriores, que son la base para jugar de manera inteligente. En la Fase 3 el jugador aprende cómo mover su cuerpo, cómo colocarse y cómo flotar; en la Fase 4 practica esos movimientos hasta realizarlos sin tener que pensar demasiado en ellos. Nuestro objetivo es nivelar un grupo heterogéneo: al nadador clásico le damos sustentación vertical en eggbeater y visión panorámica, y al deportista que viene de tierra —o que se inicia en el agua— le damos economía de esfuerzo para no agotarse rápido. Además, entre los 11 y 13 años fijamos un codo alto a 90° y una rotación limpia antes del estirón puberal, previniendo futuras lesiones de hombro."*
 
 ---
 
@@ -145,7 +145,7 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
     * Límite de posesión adaptado a 30 segundos (evitando la precipitación y fatiga láctica).
   * *Principio:* El error técnico no se castiga; se analiza como lectura del juego.
 * **Guion de Josué:**
-  > *"Una vez que el atleta automatizó el soporte, avanzamos a la Fase 5: la utilización táctica inteligente. En nuestras fichas de trabajo proponemos situaciones reducidas de 2 contra 1 y 3 contra 2. Aquí enseñamos el principio táctico de 'fijar': el atacante con balón no lanza de inmediato, sino que avanza hacia el defensor para comprometerlo y habilitar al compañero que entra por la espalda. Hemos fijado tiempos de ataque de 30 segundos; con ello evitamos que los chicos se apresuren y respetamos la fisiología del púber, priorizando la precisión del pase sobre la velocidad descontrolada."*
+  > *"Ahora que el niño domina los movimientos de forma natural, en la Fase 5 debe aprender a utilizarlos para resolver situaciones reales de juego. Aquí presentamos ejercicios donde los jugadores tienen que observar lo que está pasando y decidir qué hacer, buscando que no solamente ejecuten instrucciones, sino que aprendan a pensar. En nuestras fichas trabajamos superioridades reducidas de 2 contra 1 y 3 contra 2, aplicando el principio de 'fijar y pasar': el atacante con balón avanza hacia el defensor para comprometerlo y habilitar al compañero libre, o define si el defensor duda. Además, usamos posesiones adaptadas de 30 segundos para evitar la prisa y la fatiga láctica, tratando el error como parte del aprendizaje grupal."*
 
 ---
 
@@ -160,7 +160,7 @@ La estructura consta de **13 diapositivas**, resolviendo la participación equit
     * Dinámica 3:1 (3 semanas de desarrollo y carga + 1 semana de descarga activa y consolidación).
   * *Criterio Biológico:* Predominio de vías aeróbicas y alácticas; exclusión de cargas lácticas extenuantes.
 * **Guion de Josué:**
-  > *"En la gestión de la carga, la estructura es innegociable: cada sesión de 90 minutos inicia con 20 minutos de preparación neuromuscular en seco fuera del agua. Usamos bandas elásticas para activar rotadores externos de hombro, serratos y trabajo de zona media; esto 'blinda' la articulación glenohumeral antes de entrar a la fosa. En la periodización anual aplicamos una dinámica ondulante de 3 a 1: tres semanas de progresión técnica seguidas de una semana de descarga activa para consolidar adaptaciones. Fisiológicamente evitamos series lácticas prolongadas, aprovechando la excelente recuperación que tienen los niños en esfuerzos fraccionados."*
+  > *"Aquí veremos cómo está organizado nuestro plan de entrenamiento. Una buena planificación es clave para que los jugadores aprendan progresivamente, mejoren su rendimiento y tengan tiempo suficiente para recuperarse. Por eso, cada sesión de 90 minutos inicia de forma innegociable con 20 minutos en seco: activación escapular con bandas elásticas y zona media para proteger el hombro antes de los 70 minutos en el agua. A nivel anual aplicamos una dinámica ondulante 3:1 —tres semanas de desarrollo y carga seguidas de una semana de descarga activa para consolidar adaptaciones—, priorizando vías aeróbicas y alácticas y evitando cargas lácticas extenuantes en esta etapa puberal."*
 
 ---
 
